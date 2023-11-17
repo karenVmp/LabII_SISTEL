@@ -4,7 +4,7 @@ clear all, close all, clc
 %% BINARY SOURCE
 
 % Read the image
-img=imread("C:\Users\ASUS\OneDrive\Documentos\MATLAB\tigre.jpg");
+img=imread("ubicación: \tigre.jpg");
 % Convert the original image to grayscale
 img_Gray=im2gray(img);
 
